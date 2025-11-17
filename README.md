@@ -10,7 +10,7 @@ This is a full-stack virtual assistant web application built using the MERN stac
 - **AI Integration**: Gemini AI
 
 ## 🚀 Live Demo
-👉 [Click here to try the virtual assistant](https://your-deployment-link.com)
+virtualassistant-phi.vercel.app
 
 ## 📁 Folder Structure
 - `/frontend` — React UI
